@@ -1,1 +1,1 @@
-web: java -war target/mavenproject2-1.0.jar
+web java $JAVA_OPTS -jar webapp-runner.jar ${WEBAPP_RUNNER_OPTS} --port $PORT ./target/mavenproject2-1.0.war
