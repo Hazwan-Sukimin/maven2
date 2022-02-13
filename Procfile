@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar target/dependency/mavenproject2-1.0.jar --port $PORT target/*.war
+web: java $JAVA_OPTS -jar target/mavenproject2-1.0.jar --port $PORT target/*.war
