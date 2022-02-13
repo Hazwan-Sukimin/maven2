@@ -1,1 +1,1 @@
-web: node build/server.js
+web: java -war target/mavenproject2-1.0.jar
