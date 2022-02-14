@@ -1,1 +1,2 @@
-Controller\Welcome.class
+bean\MyConnection.class
+Controller\Hello.class
